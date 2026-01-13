@@ -69,7 +69,7 @@ mygamelib/
 - Open a second terminal
 - cd server
 - npm install
-- node index.js
+- npm start
 
 4. Start the frontend
 
