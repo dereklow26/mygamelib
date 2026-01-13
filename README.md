@@ -39,7 +39,7 @@ mygamelib/
 ├── vite.config.js  
 ├── eslint.config.js  
 ├── app.css  
-├── index.html 
+├── index.html  
 ├── README.md  
 
 ## How It Works
