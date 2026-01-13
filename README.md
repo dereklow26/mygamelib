@@ -33,6 +33,8 @@ mygamelib/
 ├── server/  
 │ ├── db.js  
 │ ├── index.js  
+│ ├── package.json  
+│ ├── package-lock.json  
 ├── .gitignore  
 ├── package.json  
 ├── package-lock.json  
