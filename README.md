@@ -22,25 +22,25 @@ This project is a full-stack web application consisting of a React fronend and a
 
 ## Project Structure
 
-mygamelib/
-├── src/
-│ ├── App.jsx
-│ ├── GameCard.jsx
-│ ├── GameForm.jsx
-│ ├── GameList.jsx
-│ ├── GameModal.jsx
-│ ├── main.jsx
-├── server/
-│ ├── db.js
-│ ├── index.js
-├── .gitignore
-├── package.json
-├── package-lock.json
-├── vite.config.js
-├── eslint.config.js
-├── app.css
-├── index.html
-├── README.md
+mygamelib/```
+├── src/```
+│ ├── App.jsx```
+│ ├── GameCard.jsx```
+│ ├── GameForm.jsx```
+│ ├── GameList.jsx```
+│ ├── GameModal.jsx```
+│ ├── main.jsx```
+├── server/```
+│ ├── db.js```
+│ ├── index.js```
+├── .gitignore```
+├── package.json```
+├── package-lock.json```
+├── vite.config.js```
+├── eslint.config.js```
+├── app.css```
+├── index.html```
+├── README.md```
 
 ## How It Works
 
